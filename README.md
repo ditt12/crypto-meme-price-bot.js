@@ -19,7 +19,7 @@ Sebuah bot Telegram yang siap memantau harga koin meme favorit kamu secara real-
 > `git clone https://github.com/ditt12/telegram-crypto-meme-price-bot.js/`
 >
 > **2. Masuk ke direktori proyek:**  
-> `cd elegram-crypto-meme-price-bot.js`
+> `cd telegram-crypto-meme-price-bot.js`
 >
 > **3. Install dependencies dengan npm:**  
 > `npm install`
