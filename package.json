@@ -1,0 +1,24 @@
+{
+  "name": "crypto-meme-price-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to check the price of meme coins in real-time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "telegraf": "^4.10.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "crypto",
+    "meme",
+    "coin",
+    "price"
+  ],
+  "author": "asrv",
+  "license": "MIT"
+}
