@@ -31,3 +31,8 @@ Sebuah bot Telegram yang siap memantau harga koin meme favorit kamu secara real-
 > `npm start`
 >
 > **6. Bot Telegram siap digunakan!**
+## Ikuti Kami di Sosial Media
+
+[![YouTube](https://i.ibb.co/5jJ4V8N/youtube-icon.png)](https://www.youtube.com/raditreall) [![Instagram](https://i.ibb.co/5jJ4V8N/instagram-icon.png)](https://www.instagram.com/asyrfwrld999)
+
+> Klik ikon di atas untuk mengikuti kami di sosial media!
